@@ -12,4 +12,9 @@ class IndexController extends AppController
         $this;
         
     }
+    
+    public function test(){
+        
+        
+    }
 }
